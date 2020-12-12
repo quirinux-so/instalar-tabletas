@@ -1,5 +1,5 @@
 # instalar-tabletas.sh
-Instala controladores libres GNU/Linux para tabletas gráficas Wacom y Genius
+Instala controladores libres GNU/Linux para tabletas gráficas Wacom y Genius.<br>
 Autor: Charlie Martínez ®
 
 ### Instrucciones
