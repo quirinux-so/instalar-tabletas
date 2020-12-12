@@ -3,9 +3,11 @@ Instala controladores libres GNU/Linux para tabletas gráficas Wacom y Genius
 Autor: Charlie Martínez ®
 
 ### Instrucciones
+Ingresar a la terminal y situarse dentro del directorio donde esté instalar-tabletas.sh<br>
+Luego, ejecutar los siguientes comandos:<br>
 sudo chmod 755 instalar-tabletas.sh <br>
 su root (o sudo su, si está habilitado)<br>
-./instalar-quirinux.sh<br>
+./instalar-tabletas.sh<br>
 Es preferible ejecutar este script de la forma indicada, en lugar de sudo ./instalar-quirinux.sh
 
 #### Autor
